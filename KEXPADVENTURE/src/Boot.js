@@ -20,6 +20,7 @@ var Castlevania;
         Boot.prototype.create = function () {
             this.input.maxPointers = 1;
             this.stage.disableVisibilityChange = true;
+            this.stage.backgroundColor = '#2d2d2d';
             if (this.game.device.desktop) {
                 this.scale.pageAlignHorizontally = true;
                 this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;

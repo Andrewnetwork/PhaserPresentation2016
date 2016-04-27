@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e604dc4e-e796-4417-89e7-f3a9fc268df7" name="Default" comment="" />
+    <list default="true" id="e604dc4e-e796-4417-89e7-f3a9fc268df7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/level1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/loader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/simon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/title.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/assets/titlepage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/default.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/p2.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.comments.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/pixi.comments.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/source/pixi.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Boot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Boot.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Boot.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Level1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Level1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Level1.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/MainMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/MainMenu.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/MainMenu.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Player.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Player.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Player.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Preloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Preloader.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/src/Preloader.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdvancedPhaserSetup/tsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/app.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/app.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/default.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/mymug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/p2.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/phaser.comments.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/phaser.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/phaser.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/phaser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/pixi.comments.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/pixi.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BasicTemplate/tsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KEXPADVENTURE/assets/loader/FITTED-KES-HIGHRES copy.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.js" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.js.map" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.ts" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.js" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.js.map" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.ts" afterPath="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.ts" />
+    </list>
     <ignored path="Phaser.IO.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,30 +79,7 @@
     <favorites_list name="Phaser.IO" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PhaserPresentation/KEXPADVENTURE/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +92,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PhaserLIB/phaser" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,6 +121,13 @@
         <option value="$PROJECT_DIR$/AdvancedPhaserSetup/default.htm" />
         <option value="$PROJECT_DIR$/AdvancedPhaserSetup/readme.txt" />
         <option value="$PROJECT_DIR$/AdvancedPhaserSetup/readme.md" />
+        <option value="$PROJECT_DIR$/KEXPADVENTURE/src/Boot.ts" />
+        <option value="$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.ts" />
+        <option value="$PROJECT_DIR$/WebGL_PlaneDeformation/tsconfig.json" />
+        <option value="$PROJECT_DIR$/WebGL_PlaneDeformation/default.htm" />
+        <option value="$PROJECT_DIR$/WebGL_PlaneDeformation/src/Game.ts" />
+        <option value="$PROJECT_DIR$/phaser-examples/examples/filters/plane deformation.js" />
+        <option value="$PROJECT_DIR$/WebGL_PlaneDeformation/src/Boot.ts" />
       </list>
     </option>
   </component>
@@ -124,113 +167,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
+              <option name="myItemId" value="PhaserPresentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
+              <option name="myItemId" value="PhaserPresentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserLIB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phaser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KEXPADVENTURE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KEXPADVENTURE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KEXPADVENTURE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BasicTemplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Phaser.IO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedPhaserSetup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -240,8 +197,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebGL_PlaneDeformation/assets" />
+      <recent name="$PROJECT_DIR$/WebGL_PlaneDeformation" />
+      <recent name="$PROJECT_DIR$/AdvancedPhaserSetup/source" />
+      <recent name="$PROJECT_DIR$/BasicShooter" />
+      <recent name="$PROJECT_DIR$/First" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AdvancedPhaserSetup" />
       <recent name="$PROJECT_DIR$/AdvancedPhaserSetup/src" />
@@ -249,13 +214,8 @@
       <recent name="$PROJECT_DIR$/BasicShooter" />
       <recent name="$PROJECT_DIR$/First" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AdvancedPhaserSetup/source" />
-      <recent name="$PROJECT_DIR$/BasicShooter" />
-      <recent name="$PROJECT_DIR$/First" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.default.htm (3)">
+  <component name="RunManager" selected="JavaScript Debug.default.htm (4)">
     <configuration default="false" name="default.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63344/Phaser.IO/First/default.htm">
       <method />
     </configuration>
@@ -266,6 +226,9 @@
       <method />
     </configuration>
     <configuration default="false" name="default.htm (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/Phaser.IO/KEXPADVENTURE/default.htm">
+      <method />
+    </configuration>
+    <configuration default="false" name="default.htm (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PhaserPresentation/WebGL_PlaneDeformation/default.htm">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -321,18 +284,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.default.htm" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (1)" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (2)" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (3)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (4)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (3)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (2)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.default.htm" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (4)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (3)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (2)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.default.htm (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.default.htm" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +316,13 @@
       <updated>1461695810669</updated>
       <workItem from="1461695813073" duration="991000" />
       <workItem from="1461714146097" duration="247000" />
-      <workItem from="1461714422701" duration="14336000" />
+      <workItem from="1461714422701" duration="18417000" />
+      <workItem from="1461771637641" duration="1277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15574000" />
+    <option name="totallyTimeSpent" value="20932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="53" width="1400" height="833" extended-state="0" />
@@ -364,9 +330,8 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.46857142" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5314286" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.48857144" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.46285716" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5371429" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -378,6 +343,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.48857144" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -397,142 +363,55 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/PhaserLIB/phaser/build/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/PhaserLIB/phaser/build/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/PhaserLIB/phaser/build/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.js">
+    <entry file="file://$PROJECT_DIR$/First/config.php" />
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/phaser.d.ts">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/phaser.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4110">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/pixi.comments.d.ts">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/pixi.comments.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/pixi.d.ts">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/pixi.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/phaser.comments.d.ts">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/phaser.comments.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/p2.d.ts">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/p2.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="566" column="0" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
@@ -540,118 +419,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.js.map">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/app.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="96" selection-start-line="0" selection-start-column="96" selection-end-line="0" selection-end-column="96" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.css">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicShooter/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicShooter/phaser.js">
+    <entry file="file://$PROJECT_DIR$/BasicShooter/config.php" />
+    <entry file="file://$PROJECT_DIR$/BasicShooter/phaser.js" />
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/source/phaser.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/default.htm">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/phaser.min.js">
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/phaser.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="2" column="968" selection-start-line="2" selection-start-column="968" selection-end-line="2" selection-end-column="968" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Game.js.map">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicShooter/phaser.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/BasicTemplate/app.ts">
+    <entry file="file://$PROJECT_DIR$/BasicShooter/phaser.map" />
+    <entry file="file://$PROJECT_DIR$/BasicTemplate/app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/source/phaser.d.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/source/p2.d.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/source/p2.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
@@ -659,70 +499,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Boot.js.map">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Boot.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/source/phaser.comments.d.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/source/phaser.comments.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/app.css">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/app.css" />
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/source/p2.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/source/p2.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Player.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Player.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc;n#Castlevania#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/includes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Game.js">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/includes.js" />
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Game.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Game.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
@@ -730,74 +547,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/MainMenu.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/MainMenu.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/assets/simon.png">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/assets/simon.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Boot.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Boot.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-          <folding>
-            <element signature="n#!!doc;n#Castlevania#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Preloader.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-          <folding>
-            <element signature="n#!!doc;n#Castlevania#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/src/Level1.ts">
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Level1.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/KEXPADVENTURE/default.htm">
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Player.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/src/Preloader.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/assets/loader.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Preloader.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Level1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PhaserPresentation/AdvancedPhaserSetup/readme.md">
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/MainMenu.ts">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Boot.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Game.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/readme.md">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/assets/titlepage.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phaser-examples/examples/filters/plane deformation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="77" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/src/Game.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/src/Boot.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

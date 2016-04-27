@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../PhaserPresentation/.idea/Phaser.IO.iml" filepath="$PROJECT_DIR$/../PhaserPresentation/.idea/Phaser.IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Phaser.IO.iml" filepath="$PROJECT_DIR$/.idea/Phaser.IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PhaserPresentation.iml" filepath="$PROJECT_DIR$/.idea/PhaserPresentation.iml" />
     </modules>
   </component>
 </project>
