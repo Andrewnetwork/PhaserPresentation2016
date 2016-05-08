@@ -232,7 +232,7 @@ function update () {
 
     if (cursors.up.isDown)
     {
-        //  The speed we'll travel at
+        //  The speed we'll travel at=
         currentSpeed = 300;
     }
     else
