@@ -4,10 +4,15 @@
 /// <reference path="../source/phaser.d.ts"/>
 var TankGame;
 (function (TankGame) {
+    // Class for the autonomous EnemyTank
+    // Export the class for use outside the module. 
     var EnemyTank = (function () {
+        // Class constructor with typed arguments. 
         function EnemyTank(index, game, player, bullets) {
+            // Random coordinates for the placement of this enemy tank.
             var x = game.world.randomX;
             var y = game.world.randomY;
+            // Class Variable Initialization
             this.game = game;
             this.health = 3;
             this.player = player;
@@ -15,9 +20,11 @@ var TankGame;
             this.fireRate = 1000;
             this.nextFire = 0;
             this.alive = true;
+            // Using the enemy sprite atlas to load the sprites for this object.
             this.shadow = game.add.sprite(x, y, 'enemy', 'shadow');
             this.tank = game.add.sprite(x, y, 'enemy', 'tank1');
             this.turret = game.add.sprite(x, y, 'enemy', 'turret');
+            // The anchor of the sprites to the parent object.
             this.shadow.anchor.set(0.5);
             this.tank.anchor.set(0.5);
             this.turret.anchor.set(0.3, 0.5);

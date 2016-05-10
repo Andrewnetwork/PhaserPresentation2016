@@ -2,98 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e604dc4e-e796-4417-89e7-f3a9fc268df7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/dark_grass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/earth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/enemy-tanks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/explosion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/light_grass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/light_sand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/sand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/scorched_earth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tank6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tracks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/turret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/BasicGreyShader/src/BasicFilter.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.tps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TankGame/src/EnemyTank.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/level1.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/level1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/loader.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/loader.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/logo.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/simon.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/simon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/cyberglow.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/cyberglow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/factory.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/factory.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/metal.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/metal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/ooze.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/ooze.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/tron.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/tron.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/wetstone.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/wetstone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/textures/wood_by_EricHart3d.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/textures/wood_by_EricHart3d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/title.mp3" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/title.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/assets/titlepage.jpg" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/assets/titlepage.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/default.htm" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/readme.md" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/p2.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/p2.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/phaser.comments.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/phaser.comments.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/phaser.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/phaser.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/phaser.min.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/phaser.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/pixi.comments.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/pixi.comments.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/source/pixi.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/source/pixi.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Boot.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Boot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Boot.js.map" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Boot.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Boot.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Boot.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Game.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Game.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Game.js.map" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Game.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/src/Game.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Game.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation/tsconfig.json" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/tsconfig.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/level1.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/level1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/loader.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/loader.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/logo.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/simon.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/simon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/cyberglow.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/cyberglow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/factory.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/factory.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/metal.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/metal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/ooze.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/ooze.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/tron.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/tron.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/wetstone.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/wetstone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/textures/wood_by_EricHart3d.png" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/textures/wood_by_EricHart3d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/title.mp3" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/title.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/assets/titlepage.jpg" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/assets/titlepage.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/default.htm" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/default.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/readme.md" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/p2.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/p2.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/phaser.comments.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/phaser.comments.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/phaser.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/phaser.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/phaser.min.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/phaser.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/pixi.comments.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/pixi.comments.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/source/pixi.d.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/source/pixi.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Boot.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Boot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Boot.js.map" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Boot.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Boot.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/Boot.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Game.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Game.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Game.js.map" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Game.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/Game.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/src/Game.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.js" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.js.map" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.ts" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/src/planeDeform.shade" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/planeDeform.shade" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/WebGL_PlaneDeformation_ADVANCED/tsconfig.json" afterPath="$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation/tsconfig.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.js" afterPath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.js.map" afterPath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.ts" afterPath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.js.map" afterPath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts" afterPath="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js" afterPath="$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/EnemyTank.js" afterPath="$PROJECT_DIR$/TankGame/src/EnemyTank.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/EnemyTank.js.map" afterPath="$PROJECT_DIR$/TankGame/src/EnemyTank.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/EnemyTank.ts" afterPath="$PROJECT_DIR$/TankGame/src/EnemyTank.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/Game.js" afterPath="$PROJECT_DIR$/TankGame/src/Game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/Game.js.map" afterPath="$PROJECT_DIR$/TankGame/src/Game.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TankGame/src/Game.ts" afterPath="$PROJECT_DIR$/TankGame/src/Game.ts" />
     </list>
     <ignored path="Phaser.IO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,40 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Game.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Game.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tanks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="111" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TankGame/src/Game.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="4511">
+              <caret line="339" column="43" selection-start-line="339" selection-start-column="43" selection-end-line="339" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -157,18 +42,18 @@
       <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TankGame/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnemyTank.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EnemyTank.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TankGame/src/EnemyTank.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="-341">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#TankGame#0" expanded="false" />
               </folding>
@@ -176,34 +61,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Preloader.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts">
+      <file leaf-file-name="tanks.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="295">
+              <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainMenu.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/MainMenu.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Level1.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Level1.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -270,10 +133,10 @@
         <option value="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts" />
         <option value="$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Player.ts" />
         <option value="$PROJECT_DIR$/TankGame/default.htm" />
-        <option value="$PROJECT_DIR$/TankGame/src/EnemyTank.ts" />
         <option value="$PROJECT_DIR$/TankGame/src/Game.js" />
         <option value="$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js" />
         <option value="$PROJECT_DIR$/TankGame/src/Game.ts" />
+        <option value="$PROJECT_DIR$/TankGame/src/EnemyTank.ts" />
       </list>
     </option>
   </component>
@@ -312,8 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,10 +192,6 @@
               <option name="myItemId" value="PhaserPresentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TankGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -347,69 +204,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TankGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Game.ts" />
-              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TankGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TankGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="games" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhaserPresentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -540,11 +341,12 @@
       <workItem from="1461714422701" duration="18417000" />
       <workItem from="1461771637641" duration="17005000" />
       <workItem from="1462482659389" duration="15384000" />
+      <workItem from="1462714997935" duration="9744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52044000" />
+    <option name="totallyTimeSpent" value="61788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -563,7 +365,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13316262" sideWeight="0.46041667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31343284" sideWeight="0.5395833" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.48857144" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -575,6 +376,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.48857144" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -618,22 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KEXPADVENTURE/src/Level1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/readme.md" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/assets/titlepage.jpg" />
-    <entry file="file://$PROJECT_DIR$/AdvancedPhaserSetup/default.htm" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/phaser-examples/examples/filters/plane deformation.js" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/default.htm" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/src/Game.ts" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/src/Boot.ts" />
-    <entry file="file://$PROJECT_DIR$/WebGL_PlaneDeformation/readme.md" />
     <entry file="file://$PROJECT_DIR$/Demo/WebGL/Shaders_Filters/WebGL_PlaneDeformation_ADVANCED/src/ShaderLoader.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -764,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,25 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Level1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -833,42 +599,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/MainMenu.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Game.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="120">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TankGame/src/Boot.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankGame/src/Player.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/src/Boot.ts" />
+    <entry file="file://$PROJECT_DIR$/TankGame/src/Player.ts" />
     <entry file="file://$PROJECT_DIR$/TankGame/src/Game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -881,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,32 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2265">
           <caret line="151" column="10" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankGame/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankGame/src/EnemyTank.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#TankGame#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="111" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -927,11 +643,146 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PhaserSource/phaser-examples/examples/games/tanks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="93" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="111" selection-end-column="17" />
+          <folding>
+            <marker date="1462714965000" expanded="true" signature="53:933" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="976:1194" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="1032:1172" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="1236:1976" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="1594:1973" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="1684:1967" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="2139:2623" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="2881:5480" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="4275:4348" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="4927:5118" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="5505:5575" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="5596:6942" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="5754:6031" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="5794:6025" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6066:6098" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6138:6170" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6203:6277" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6291:6379" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6331:6373" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6411:6517" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="6898:6939" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="7049:7332" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="7145:7329" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="7351:7677" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="7419:7674" placeholder="{...}" />
+            <marker date="1462714965000" expanded="true" signature="7698:7884" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Preloader.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1462714964000" expanded="true" signature="0:47" placeholder="/** Created by andrewribeiro on 4/27/16. ...*/" />
+            <marker date="1462714964000" expanded="true" signature="112:1107" placeholder="..." />
+            <marker date="1462714964000" expanded="true" signature="163:1104" placeholder="{...}" />
+            <marker date="1462714964000" expanded="true" signature="220:793" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/MainMenu.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/AdvancedPhaserSetup/src/Level1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/scorched_earth.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/turret.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tank1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/assets/games/tanks/tanks.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TankGame/src/Game.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="4511">
+          <caret line="339" column="43" selection-start-line="339" selection-start-column="43" selection-end-line="339" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TankGame/src/EnemyTank.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#TankGame#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

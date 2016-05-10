@@ -6,8 +6,11 @@
 
 module TankGame{
 
+    // Class for the autonomous EnemyTank
+    // Export the class for use outside the module. 
     export class  EnemyTank{
 
+        // Class Variables 
         game:Phaser.Game;
         health:number;
         player:Phaser.Sprite;
@@ -18,11 +21,15 @@ module TankGame{
         shadow:Phaser.Sprite;
         tank:Phaser.Sprite;
         turret:Phaser.Sprite;
-
+        
+        // Class constructor with typed arguments. 
         constructor(index:Number, game:Phaser.Game, player:Phaser.Sprite, bullets:Phaser.Group) {
+
+            // Random coordinates for the placement of this enemy tank.
             var x = game.world.randomX;
             var y = game.world.randomY;
 
+            // Class Variable Initialization
             this.game = game;
             this.health = 3;
             this.player = player;
@@ -31,10 +38,12 @@ module TankGame{
             this.nextFire = 0;
             this.alive = true;
 
+            // Using the enemy sprite atlas to load the sprites for this object.
             this.shadow = game.add.sprite(x, y, 'enemy', 'shadow');
             this.tank = game.add.sprite(x, y, 'enemy', 'tank1');
             this.turret = game.add.sprite(x, y, 'enemy', 'turret');
 
+            // The anchor of the sprites to the parent object.
             this.shadow.anchor.set(0.5);
             this.tank.anchor.set(0.5);
             this.turret.anchor.set(0.3, 0.5);
