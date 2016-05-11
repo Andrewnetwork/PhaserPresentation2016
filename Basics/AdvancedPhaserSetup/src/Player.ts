@@ -8,7 +8,7 @@ module Castlevania{
         
         constructor(game: Phaser.Game, x: number, y: number) {
             super(game, x+300, y, 'simon', 0);
-            this.anchor.setTo(1);
+            this.anchor.setTo(0.5);
             this.animations.add('walk', [0, 1, 2, 3, 4], 10, true);
             game.add.existing(this);
             game.physics.enable(this);

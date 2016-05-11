@@ -35,6 +35,7 @@ var Castlevania;
                 this.scale.pageAlignHorizontally = true;
                 this.scale.refresh();
             }
+            // start(key, clearWorld, clearCache, parameter)
             this.game.state.start('Preloader', true, false);
         };
         return Boot;
